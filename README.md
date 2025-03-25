@@ -2,4 +2,8 @@
 
 ## Overview
 
-Walled is an E-Wallet application developed during the BSI IT development program classes, powered by Rakamin. This web application allows users to manage their financial transactions, including viewing balances, transferring funds, and topping up accounts. Built with React and Vite, Walled offers a modern and responsive user interface.
+Walled is a web-based e-wallet application, developed during the BSI IT program with Rakamin using React and Vite, that provides users with a modern and responsive interface for managing their finances, including viewing balances, transferring funds, and topping up accounts.
+
+npm install
+
+npm run dev
